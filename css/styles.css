@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #3d9fb1;
+  color: #6C4A4A;
   text-decoration: underline;
 }
 
@@ -10079,7 +10079,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #3eb1c5;
+  background-color: #C89595;
 }
 
 .dev-icons {
