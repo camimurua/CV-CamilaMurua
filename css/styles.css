@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: rgb(227, 242, 250);
+  background-color: #EDEDED;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: rgb(56, 152, 197);
+  color: #C89595;
   text-decoration: none !important;
   background-color: transparent;
 }
@@ -6075,7 +6075,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #38a9bd !important;
+  background-color: #C89595 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9777,7 +9777,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #308290 !important;
+  color: #6C4A4A !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
